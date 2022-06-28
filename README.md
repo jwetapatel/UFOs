@@ -32,7 +32,14 @@ Software: ES6+, ECMAScript, Visual Studio Code 1.50.0
 
 ![filter search by_city](https://user-images.githubusercontent.com/96400887/176242421-cf96e88c-147a-4168-a637-70f86af9cf36.png)
 
-### Clear table criteria, just click on "Clear Table" button, and start a new search and After clear table, you may see our default data,
+### Clear table criteria, just click on "Clear Table" button, and start a new search and After clear table, you may see our default data.
+
+![UFOs_2](https://user-images.githubusercontent.com/96400887/176244270-d1067bb1-7ad5-473a-aee3-0359a4489ad1.png)
+
+
+# Summury
+
+
 
 
 
