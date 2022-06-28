@@ -13,6 +13,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 # Resources
 
 Data Tools: ECMAScript, JavaScript, Jupyter Notebook, Python and MongoDB
+
 Software: ES6+, ECMAScript, Visual Studio Code 1.50.0
 
 # Results
@@ -38,6 +39,19 @@ Software: ES6+, ECMAScript, Visual Studio Code 1.50.0
 
 
 # Summury
+
+### Drawback
+
+- Create a better HTML, CSS, and JavaScript Work interaction that feed UFOs data from most concise and automate workload.
+
+
+### Recommendations
+
+- We could add another filter with duration to show for example events longer than 10 minutes, or also we can add the description by filtering by key words, like "bright".
+
+- We could add another style for the table and add the placeholder as an example to know the correct way to input the data.
+
+- We can include live testimonies were transcribed and published in the highly revealing Data.
 
 
 
